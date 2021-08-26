@@ -1,0 +1,68 @@
+body{
+    color:whitesmoke;
+}
+#title_login{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top:140px;
+    margin-bottom:60px;
+}
+#login-form{
+    display: flex;
+    flex-direction: column;
+}
+#login-form input{
+    padding:16px 8px;
+    margin:0px 30px 20px 30px;
+    font-size:16px;
+    border:none;
+    border-radius: 8px;
+}
+.write{
+    background-color:rgb(15, 15, 15);
+}
+#form-find{
+    display: flex;
+    justify-content: flex-end;
+}
+#form-find p{
+    font-size: 14px;
+    color:rgb(48, 140, 245);
+    margin:0px 30px 40px 0px;
+}
+#login_button{
+    margin-top:30px;
+    background-color:rgb(48, 140, 245) ;
+    color:white;
+    font-size: 15px;
+}
+#login_other{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#login_other span{
+    color:darkgray;
+    margin:20px 0px 50px 0px;
+}
+#login_other a{
+    color:rgb(48, 140, 245);
+    text-decoration: none;
+}
+#sign-up{
+    position:absolute;
+    width:100%;
+    bottom:15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sign-up span{
+    color:darkgray;
+    margin-right:5px;
+}
+#sign-up a{
+    color:rgb(48, 140, 245);
+    text-decoration: none;
+}
