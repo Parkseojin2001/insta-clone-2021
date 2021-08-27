@@ -1,9 +1,21 @@
-.nav_btn{
+.nav{
     position:fixed;
-    bottom:20px;
+    bottom:0;
     width:100%;
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+.nav_btn{
+    display: flex;
+    background-color: black;
+    padding:14px 5px;
+    width:100%;
+    justify-content: center;
+}
+.nav_btn-icons{
+    width:25%;
+    text-align: center;
 }
 .nav_link i{
     color:whitesmoke;

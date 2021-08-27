@@ -66,3 +66,6 @@ body{
     color:rgb(48, 140, 245);
     text-decoration: none;
 }
+input:focus{
+    outline:none;
+}

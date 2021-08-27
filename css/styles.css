@@ -4,6 +4,7 @@
 @import "nav_btn.css";
 @import "screen-header.css";
 @import "mystory.css";
+@import "shop.css";
 body{
     background-color: black;
 }
