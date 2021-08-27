@@ -1,6 +1,7 @@
 @import "reset.css";
 @import "status-bar.css";
 @import "login.css";
+@import "nav_btn.css";
 body{
     background-color: black;
 }
