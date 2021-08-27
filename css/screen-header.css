@@ -1,0 +1,18 @@
+.screen-header{
+    display: flex;
+    margin-top:40px;
+    justify-content: space-between;
+    align-items: center;
+}
+.screen-header_title{
+    margin-left:20px;
+}
+.screen-header_title h1{
+    font-size: 40px;
+}
+.screen-header_icons{
+    margin-right:20px;
+}
+.screen-header_icons i{
+    margin-left:30px;
+}
