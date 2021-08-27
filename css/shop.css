@@ -34,10 +34,20 @@
 .shopping-list::-webkit-scrollbar{ 
     display:none; 
 }
-.shopping-list
+.shopping-items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+.shopping-items_photo{
+    display: flex;
+    margin:1px;
+}
 .shopping-items_photo img{
-    height:45%;
-    width:50%;
+    height:215px;
+    width:245px;
+    margin-left: 1px;
 }
 .shopping-items::-webkit-scrollbar{ 
     display:none; 
