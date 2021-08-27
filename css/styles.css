@@ -3,6 +3,7 @@
 @import "login.css";
 @import "nav_btn.css";
 @import "screen-header.css";
+@import "mystory.css";
 body{
     background-color: black;
 }
