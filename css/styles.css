@@ -3,8 +3,9 @@
 @import "login.css";
 @import "nav_btn.css";
 @import "screen-header.css";
-@import "mystory.css";
+@import "follow.css";
 @import "shop.css";
+@import "user.css";
 body{
     background-color: black;
 }

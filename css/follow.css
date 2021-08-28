@@ -1,7 +1,7 @@
 .my-profile{
     display:flex;
     flex-direction: column;
-    margin:25px 0px 0px 15px;
+    margin:25px 0px 0px 20px;
 }
 .my-profile_photo-icon{
     background-color: rgb(175, 174, 174);

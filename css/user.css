@@ -1,0 +1,57 @@
+.user{
+    display:flex;
+    align-items: center;
+}
+.user_photo{
+    display: flex;
+    margin:25px 0px 0px 30px;
+}
+.user_photo-icon{
+    background-color: rgb(175, 174, 174);
+    padding:18px 23px;
+    border-radius: 50%;
+}
+
+.user_plus{
+    position:absolute;
+    left:105px;
+    top:170px; 
+}
+.fa-plus{
+    padding:7px 8px;
+    border-radius: 50%;
+    border:solid;
+    border-color:black ;
+    border-width:2px;
+    background-color: rgb(48, 140, 245);
+}
+.user-follower{
+    display: flex;
+    align-items: center;
+    margin:20px 0 0 55px;
+}
+.user-follower_column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right:55px;
+    font-size:15px;
+}
+.user-follower_count{
+    margin-bottom:5px;
+    font-size:20px;
+    font-weight:500;
+}
+#user-explain{
+    margin:16px 0 0 25px;
+    font-size:18px;
+}
+#profile-edit{
+    border:solid;
+    border-width: thin;
+    border-color:rgba(228, 133, 8, 0.253);
+    margin:15px 20px;
+    padding:10px 0 13px 0;
+    text-align: center;
+    border-radius: 5px;
+}
