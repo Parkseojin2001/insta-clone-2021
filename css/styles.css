@@ -1,11 +1,15 @@
 @import "reset.css";
+/*component*/
 @import "status-bar.css";
-@import "login.css";
 @import "nav_btn.css";
 @import "screen-header.css";
+@import "search-box.css";
+/*sceens*/
+@import "login.css";
 @import "follow.css";
 @import "shop.css";
 @import "user.css";
+@import "search.css";
 body{
     background-color: black;
 }

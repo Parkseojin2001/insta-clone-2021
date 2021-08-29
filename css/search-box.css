@@ -1,0 +1,18 @@
+.shopping-search{
+    margin:15px;
+    background-color:rgba(78, 74, 65, 0.438);
+    padding:10px;
+    border-radius: 12px;
+}
+.shopping-search input{
+    border:none;
+    background-color: none;
+    font-size:20px;
+    margin-left:8px;
+    color:darkgray;
+    width:90%;
+}
+.shopping-search i{
+    color:darkgray;
+    margin-left:5px;
+}

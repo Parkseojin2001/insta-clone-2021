@@ -1,0 +1,16 @@
+#shopping-search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:30px;
+
+}
+.search-box_search{
+    width:80%;
+}
+.search-box_search input{
+    width:75%;
+}
+.fa-map{
+    margin-right:17px;
+}
