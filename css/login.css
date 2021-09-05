@@ -69,3 +69,9 @@ body{
 input:focus{
     outline:none;
 }
+.login_font-color{
+    color:rgb(48, 140, 245);
+    margin:0px 10px 40px 0px;
+    outline:none;
+    text-decoration: none;
+}
